@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Git Me Everything</title>
+  <desc id="desc">A dark stack of repositories surrounded by orange synchronization arrows.</desc>
+  <g fill="none" stroke="#F05032" stroke-linecap="round" stroke-linejoin="round" stroke-width="14">
+    <path d="M112 190c22-61 78-99 144-99 67 0 123 39 145 100"/>
+    <path d="m380 183 22 19 14-25"/>
+    <path d="M400 322c-22 61-78 99-144 99-67 0-123-39-145-100"/>
+    <path d="m132 329-22-19-14 25"/>
+  </g>
+  <g fill="#24292F">
+    <rect x="177" y="166" width="158" height="53" rx="13"/>
+    <rect x="177" y="229" width="158" height="53" rx="13"/>
+    <rect x="177" y="292" width="158" height="53" rx="13"/>
+  </g>
+  <g fill="none" stroke="#F05032" stroke-linecap="round" stroke-linejoin="round" stroke-width="7">
+    <path d="M207 193v-7c0-5 4-9 9-9h17m-26 16v8"/>
+    <path d="M207 256v-7c0-5 4-9 9-9h17m-26 16v8"/>
+    <path d="M207 319v-7c0-5 4-9 9-9h17m-26 16v8"/>
+    <path d="M252 193h54M252 256h54M252 319h54"/>
+  </g>
+  <g fill="#F05032">
+    <circle cx="207" cy="201" r="5"/>
+    <circle cx="233" cy="177" r="5"/>
+    <circle cx="207" cy="209" r="5"/>
+    <circle cx="207" cy="264" r="5"/>
+    <circle cx="233" cy="240" r="5"/>
+    <circle cx="207" cy="272" r="5"/>
+    <circle cx="207" cy="327" r="5"/>
+    <circle cx="233" cy="303" r="5"/>
+    <circle cx="207" cy="335" r="5"/>
+  </g>
+</svg>

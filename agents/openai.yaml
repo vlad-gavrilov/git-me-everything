@@ -1,0 +1,7 @@
+interface:
+  display_name: "Git Me Everything"
+  short_description: "Mirror GitHub and GitLab repositories safely"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/logo.svg"
+  brand_color: "#F05032"
+  default_prompt: "Use $git-me-everything to configure a GitHub or GitLab mirror, inspect its scope, and synchronize it safely."

@@ -221,3 +221,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-local scratch space
+work/
+
+# Additional local secrets and credentials
+.env.*
+*.token
+*.credentials
+credentials.json
